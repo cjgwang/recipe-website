@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* cozy touches */
+:root{
+  --rounded-xl: 1.25rem;
+}
